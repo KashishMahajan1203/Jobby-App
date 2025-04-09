@@ -1,70 +1,79 @@
-# Getting Started with Create React App
+# Jobby App 🚀
+  [LIVE DEMO](https://jobby-app-12.netlify.app/login)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+Jobby App is a responsive job search platform that allows users to browse and filter job listings based on salary and type of employment. The app also includes secure authentication features such as login and logout functionality.
 
-In the project directory, you can run:
+> ⚠️ **Note:**  
+> To explore the app, use the following demo credentials:  
+> **Username:** `rahul`  
+> **Password:** `rahul@2021`
 
-### `npm start`
+## 🔑 Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- 🔐 **User Authentication** – Login and logout functionality to keep user data secure.
+- 💼 **Job Listings** – Browse a curated list of jobs from various domains.
+- 🎯 **Filter Options** – Filter jobs by:
+  - 💰 Salary Range
+  - 🕒 Type of Employment (Full-time, Part-time, Freelance, Internship)
+- 📱 **Responsive Design** – Fully functional across devices and screen sizes.
+- ⚡ **Fast and Smooth UI** – User-friendly interface for a seamless experience.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🛠️ Tech Stack
 
-### `npm test`
+- **Frontend**: React.js, HTML, CSS, JavaScript
+- **Authentication**: Token-based login system (JWT or similar)
+- **APIs**: (Add your job data source/API details here)
+- **State Management**: React state/hooks
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 📸 Screenshots
 
-### `npm run build`
+### 🔐 Login Page
+![Login Page](https://res.cloudinary.com/dfacldueh/image/upload/v1744183060/Screenshot_2025-04-09_124646_kjvns3.png)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### 💼 Home Page
+![Home Page](https://res.cloudinary.com/dfacldueh/image/upload/v1744183614/Screenshot_2025-04-09_124610_blx7bb.png)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 💼 Jobs Page
+![Jobs Page](https://res.cloudinary.com/dfacldueh/image/upload/v1744183694/Screenshot_2025-04-09_124630_uiedmz.png)
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 🚀 Getting Started
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### 1. Clone the repository
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+```bash
+git clone https://github.com/yourusername/jobby-app.git
+cd jobby-app
+```
+2. **Install Dependencies:**
+   ```sh
+   npm install
+   ```
 
-## Learn More
+3. **Run the Development Server:**
+   ```sh
+   npm start
+   ```
+4. **Access the Application:**
+   Open [http://localhost:3000/](http://localhost:3000/) in your browser.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Deploying Backend on Render / Heroku
+1. **Push Code to GitHub**
+2. **Connect Repository to Hosting Service**
+3. **Set Up Environment Variables in Hosting Dashboard**
+4. **Deploy & Monitor Logs**
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+## 📞 Contact
+For any queries, reach out via:
+- **Email:** [kashishmahajan878@gmail.com]
+- **LinkedIn:** [https://www.linkedin.com/in/kashish-mahajan-0591ba2b4/]
+- **GitHub Issues:** [https://github.com/KashishMahajan1203]
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+---
+_Developed with ❤️ by Kashish Mahajan
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
