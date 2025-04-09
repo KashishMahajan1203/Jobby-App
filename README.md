@@ -45,7 +45,7 @@ Jobby App is a responsive job search platform that allows users to browse and fi
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/jobby-app.git
+git clone https://github.com/KashishMahajan1203/Jobby-App.git
 cd jobby-app
 ```
 2. **Install Dependencies:**
