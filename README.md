@@ -31,7 +31,7 @@ Jobby App is a responsive job search platform that allows users to browse and fi
 ### 🔐 Login Page
 ![Login Page](https://res.cloudinary.com/dfacldueh/image/upload/v1744183060/Screenshot_2025-04-09_124646_kjvns3.png)
 
-### 💼 Home Page
+### 🏠 Home Page
 ![Home Page](https://res.cloudinary.com/dfacldueh/image/upload/v1744183614/Screenshot_2025-04-09_124610_blx7bb.png)
 
 
